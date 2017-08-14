@@ -16,7 +16,7 @@ Text is free to share and remix under [CC-BY-SA-4.0](https://creativecommons.org
 
 Code examples: [MIT license](http://opensource.org/licenses/mit-license.html)
 
-Browse at []()
+Browse at [http://tinyurl.com/complexity-quiz](http://tinyurl.com/complexity-quiz)
 
 ---
 

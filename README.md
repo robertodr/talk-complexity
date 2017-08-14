@@ -1,4 +1,6 @@
-Slides: [Managing complexity and modular code development](http://cicero.xyz/v2/remark/github/bast/talk-complexity/master/talk.md/)
+These slides are based on [Managing complexity and modular code development](http://cicero.xyz/v2/remark/github/bast/talk-complexity/master/talk.md/#1)
+
+Browse at [http://tinyurl.com/complexity-quiz](http://tinyurl.com/complexity-quiz)
 
 Text: free to share and remix under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
